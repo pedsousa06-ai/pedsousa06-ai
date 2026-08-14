@@ -28,8 +28,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&labelColor=0D1117)&nbsp;
 
-### 📐 Engenharia & Projetos:
-![UML](https://img.shields.io/badge/-UML-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=FABD14&labelColor=0D1117)&nbsp;
+### 📐 Projetos:
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)&nbsp;
 ![Scrum](https://img.shields.io/badge/-Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=6E40C9&labelColor=0D1117)&nbsp;
 
