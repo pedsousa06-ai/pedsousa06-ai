@@ -13,18 +13,9 @@
 - 🚀 Sempre estudando algo novo (veja "Estudando agora" abaixo)
 - 📫 Como me encontrar: *adicione aqui seu e-mail, LinkedIn ou outro contato*
 
-<div align="center">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedsousa06-ai&show_icons=true&count_private=true&hide_border=true&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Sousa github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedsousa06-ai&layout=compact&hide_border=true&title_color=6E40C9&text_color=6E40C9&bg_color=0d1117" alt="Top Languages"/>
 
-</div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedsousa06-ai&bg_color=000000&color=6E40C9&line=6E40C9&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedsousa06-ai&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
 
 ### 🔧 Back-end
 
