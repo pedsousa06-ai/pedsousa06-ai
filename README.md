@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E40C9&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+Pedro+Sousa;Estudo+DS+no+SENAI+Jandira+%F0%9F%8F%AB;Seja+bem-vindo!+%3A))](https://git.io/typing-svg)
+
 </div>
 
 ### 👋 Sobre mim
