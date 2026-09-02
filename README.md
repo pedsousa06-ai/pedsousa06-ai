@@ -67,7 +67,7 @@
 
 <br>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedsousa06-ai&hide_border=true&background=0D1117&ring=A78BFA&fire=6E40C9&currStreakLabel=A78BFA"/>
+<img width="98%" src="https://streak-stats.demolab.com/?user=pedsousa06-ai&hide_border=true&background=0D1117&ring=A78BFA&fire=6E40C9&currStreakLabel=A78BFA"/>
 
 <br>
 
