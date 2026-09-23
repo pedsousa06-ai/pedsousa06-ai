@@ -18,7 +18,8 @@
 > 🎓 Estudante de Desenvolvimento de Sistemas no SENAI Jandira
 > 💜 Curto mais back-end, mas transito bem por front-end e banco de dados
 > 🔭 Agora estudando **React, Vue.js, IoT e Testes**
-> 📫 Contato: *adicione aqui seu e-mail, LinkedIn ou outro link*
+> 📫 Contato: *pedsousa06@gmail.com
+>  LinkedIn www.linkedin.com/in/pedro-sousa-gomes*
 
 <br>
 
