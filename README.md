@@ -69,19 +69,3 @@
 <br>
 
 <img width="98%" src="https://streak-stats.demolab.com/?user=pedsousa06-ai&hide_border=true&background=0D1117&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF"/>
-
-<br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedsousa06-ai&bg_color=0D1117&color=58A6FF&line=1f6feb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedsousa06-ai&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
