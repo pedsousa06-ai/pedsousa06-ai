@@ -67,5 +67,3 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedsousa06-ai&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 
 <br>
-
-<img width="98%" src="https://streak-stats.demolab.com/?user=pedsousa06-ai&hide_border=true&background=0D1117&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF"/>
